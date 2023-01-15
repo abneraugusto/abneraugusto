@@ -3,11 +3,8 @@
  Apaixonado por tecnologia, negócios, startups, agilidade e inovação.
  
 ##
-
-           
+         
 ![Abner Augusto GitHub stats](https://github-readme-stats.vercel.app/api?username=abneraugusto&show_icons=true&theme=tokyonight)
-
-
 
 ##
 

@@ -23,7 +23,7 @@ Formado na área de negócios e tecnologia, possou forte capacidade de alinhar �
    
 
 </div><br/>
-/*
+<!--
 --## Ferramentas e Tecnologias
 --<div>
 --<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
@@ -35,7 +35,7 @@ Formado na área de negócios e tecnologia, possou forte capacidade de alinhar �
 
           
 --</div>
-*/
+-->
 ## Contatos:
 
 <div>

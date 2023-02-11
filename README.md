@@ -1,4 +1,4 @@
- ## Olá! Eu sou o Abner Augusto Gestor de Negócios e Inovação🖐️
+ ## Olá! Eu sou o Abner Augusto, Gestor de Negócios e Inovação🖐️
  
  Apaixonado por tecnologia, negócios, startups, agilidade e inovação.
  
